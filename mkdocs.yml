@@ -1,0 +1,8 @@
+site_name: "tmnaApiDocs"
+site_description: "Doc Sample for TMNA Demo"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core

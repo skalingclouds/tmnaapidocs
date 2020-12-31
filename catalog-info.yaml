@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "tmnaApiDocs"
+  description: "Doc Sample for TMNA Demo"
+  annotations:
+    github.com/project-slug: "skalingclouds/tmnaapidocs"
+    backstage.io/techdocs-ref: github:https://github.com/skalingclouds/tmnaapidocs
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "chris"
